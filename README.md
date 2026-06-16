@@ -1,5 +1,8 @@
 ## hi buddy! welcome to my profile 👋
 ![Banner Profil Saya](banner.png)
+
+🌐 Web & Backend Development
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
 **Celio-err/Celio-err** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
