@@ -1,7 +1,7 @@
 ## hi buddy! welcome to my profile 👋
 ![Banner Profil Saya](banner.png)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+I'm+Celio+Sousa+Silva+👋;+Informatics+Engineering+Student;+Focusing+on+Web Dev," alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+I'm+Celio+Sousa+Silva+👋;As+a:+Junior+Developer;As+a:+Fullstack+Developer" alt="Typing SVG" />
 </p>
 
 🌐 Web & Backend Development
