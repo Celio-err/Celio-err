@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi buddy! welcome to my profile 👋
 ![Banner Profil Saya](banner.png)
 <!--
 **Celio-err/Celio-err** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
