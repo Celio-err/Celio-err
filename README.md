@@ -18,7 +18,7 @@
 - 🔭 I'm currently working on **[Project Name](https://github.com/username/project)**
 - 🌱 I'm currently learning **Python / System Design / Django / whatever's relevant**
 - 👯 I'm looking to collaborate on **open-source developer tools**
-- ⚡ Fun fact: **I Hate Developers until i'm a junior developer**
+- ⚡ Fun fact: **1 knowledge == 100 more ignorance**
 
 ### 🛠️ Tech Stack
 
